@@ -2,7 +2,7 @@ import AddTodo from './components/AddTodo/AddTodo'
 import TodoList from './components/TodoList/TodoList'
 import { useDispatch } from 'react-redux'
 import { bindActionCreators } from 'redux';
-import { addTodo, editTodo, deleteTodo, finishTodo } from './actions/todoActions'
+import { addTodo, editTodo, deleteTodo, finishTodo } from './Slices/todoSlice'
 import './App.css'
 
 function App() {
