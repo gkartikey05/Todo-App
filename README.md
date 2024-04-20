@@ -1,3 +1,3 @@
 # Todo App
 
-A simple todo applicaiton to make your daily task easier to write.
+A simple todo application to make your daily task easier to write.
